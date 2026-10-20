@@ -1,0 +1,9 @@
+# ダウンロードしたデータは Git 管理の外に置く
+data/
+
+# ノートブックと Python の一時ファイル
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
